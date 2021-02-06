@@ -1,0 +1,4 @@
+[user]
+    name = David Schmidt
+[core]
+    excludesFile = ~/.gitignore_global
