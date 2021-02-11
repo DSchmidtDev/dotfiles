@@ -100,6 +100,8 @@ source $ZSH/oh-my-zsh.sh
 alias ls='lsd'
 alias l='ls -alh'
 
+alias cat='bat'
+
 # custom jenv config
 export PATH="$HOME/.jenv/bin:$PATH"
 eval "$(jenv init -)"
